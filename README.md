@@ -1,3 +1,5 @@
 # Trabajo_final_grupo_5
 
 El presente trabajo aborda la aplicación de técnicas de aprendizaje automático para la evaluación de la aptitud del terreno destinada al cultivo de cacao (Theobroma cacao L.) en Colombia, utilizando variables climáticas provenientes de fuentes abiertas como NASA POWER y datos de zonificación de la UPRA. A través de la implementación y comparación de distintos modelos de clasificación supervisada Regresión Logística, Random Forest, Red Neuronal Artificial y XGBoost se buscó determinar qué algoritmo ofrece el mejor desempeño para representar la relación entre las condiciones climáticas y la aptitud agrícola del suelo. Además, el estudio incluyó un segundo componente experimental orientado a analizar la sensibilidad de los modelos de clasificación ante variaciones en la estructura de los datos mediante conjuntos sintéticos, evaluando el impacto de la escala, la presencia de valores atípicos y el desbalance de clases sobre el rendimiento de algoritmos como SVM, KNN y Random Forest.
+
+Link al Dataset público descargado en Kaggle https://www.kaggle.com/datasets/lehetasa/colombian-cocoa-dataset
